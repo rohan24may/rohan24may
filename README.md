@@ -5,12 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=rohan24may&label=Profile%20Views&color=ff004f&style=flat" alt="rohan24may" />
 </p>
 
-<!-- ✅ GAMER VIDEO (GOKU) -->
+<!-- ✅ GAMER GIF (GOKU) -->
 <p align="center">
-  <video width="420" autoplay loop muted playsinline>
-    <source src="assets/goku.mp4" type="video/mp4">
-  </video>
+  <img src="assets/goku.gif" width="420" />
 </p>
+
 
 ---
 
