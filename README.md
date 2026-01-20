@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Web Developer from India 🇮🇳 | Gamer vibe 🕹️</h3>
 
 <p align="center">
-  <img src="https://media.tenor.com/SJ_A4oI6zv8AAAAC/goku-power.gif" width="350" />
+  <img src="[https://media.tenor.com/SJ_A4oI6zv8AAAAC/goku-power.gif](https://tenor.com/en-GB/view/goku-power-sayan-gif-5216422687777462219)" width="350" />
 </p>
 
 <p align="center">
