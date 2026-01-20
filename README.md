@@ -8,7 +8,7 @@
 <!-- ✅ GAMER VIDEO (GOKU) -->
 <p align="center">
   <video width="420" autoplay loop muted playsinline>
-    <source src="assets/goku.mp4" type="video/mp4">
+    <source src="assets/gokuuu.mp4" type="video/mp4">
   </video>
 </p>
 
