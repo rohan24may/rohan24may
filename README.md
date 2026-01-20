@@ -7,9 +7,8 @@
 
 <!-- ✅ GAMER GIF (GOKU) -->
 <p align="center">
-  <img src="assets/gokuuu-ezgif.com-mute-video.m4v" width="420" />
+  <img src="https://media.tenor.com/SJ_A4oI6zv8AAAAC/goku-power.gif" width="350" />
 </p>
-
 
 ---
 
