@@ -7,7 +7,7 @@
 
 <!-- ✅ GAMER GIF (GOKU) -->
 <p align="center">
-  <img src="assets/goku.gif" width="420" />
+  <img src="assets/gokuuu-ezgif.com-mute-video.m4v" width="420" />
 </p>
 
 
