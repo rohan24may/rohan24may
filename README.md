@@ -1,8 +1,8 @@
 <h1 align="center">🎮 Hi 👋, I'm Rohan</h1>
-<h3 align="center">A Passionate Web Developer from India 🇮🇳 | Gamer vibe 🕹️</h3>
+<h3 align="center">A Passionate Web Developer  | Gamer vibe 🕹️</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rohan24may/rohan24may/main/goku.gif" width="350" />
+  <img src="https://raw.githubusercontent.com/rohan24may/rohan24may/main/goku.gif" width="450" />
 </p>
 
 
@@ -58,6 +58,9 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rohan24may/rohan24may/main/goku-power-sayan.gif" width="450" />
+</p>
 
 ## 🔥 GitHub Streak  
 <p align="center">
