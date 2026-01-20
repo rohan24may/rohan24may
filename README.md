@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Web Developer from India 🇮🇳 | Gamer vibe 🕹️</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rohan24may/rohan24may/main/goku.gif" width="350" />
+  <img src="https://raw.githubusercontent.com/rohan24may/rohan24may/main/goku-power-sayan.gif" width="350" />
 </p>
 
 
