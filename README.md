@@ -58,9 +58,7 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rohan24may/rohan24may/main/goku-power-sayan.gif" width="450" />
-</p>
+
 
 ## 🔥 GitHub Streak  
 <p align="center">
@@ -71,4 +69,7 @@
 
 <p align="center">
   ⚡ Built with ❤️ by <b>Rohan</b> | Keep grinding 🚀
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rohan24may/rohan24may/main/goku-power-sayan.gif" width="300" />
 </p>
