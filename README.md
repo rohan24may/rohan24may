@@ -2,12 +2,11 @@
 <h3 align="center">A Passionate Web Developer from India 🇮🇳 | Gamer vibe 🕹️</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rohan24may&label=Profile%20Views&color=ff004f&style=flat" alt="rohan24may" />
+  <img src="https://media.tenor.com/SJ_A4oI6zv8AAAAC/goku-power.gif" width="350" />
 </p>
 
-<!-- ✅ GAMER GIF (GOKU) -->
 <p align="center">
-  <img src="https://media.tenor.com/SJ_A4oI6zv8AAAAC/goku-power.gif" width="350" />
+  <img src="https://komarev.com/ghpvc/?username=rohan24may&label=Profile%20Views&color=ff004f&style=flat" alt="rohan24may" />
 </p>
 
 ---
