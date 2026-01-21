@@ -76,5 +76,5 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rohan24may/rohan24may/main/goku-power-sayan.gif" width="350" />
+  <img src="https://raw.githubusercontent.com/rohan24may/rohan24may/main/goku-power-sayan.gif" width="300" />
 </p>
