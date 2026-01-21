@@ -4,14 +4,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/rohan24may/rohan24may/main/goku.gif" width="450" />
 </p>
-
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rohan24may&label=Profile%20Views&color=ff004f&style=flat" alt="rohan24may" />
-</p>
-
----
+--
 
 ## 🚀 About Me  
 - 🌱 I’m currently learning **Next.js**
