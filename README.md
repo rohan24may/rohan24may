@@ -17,7 +17,7 @@
 ---
 
 ## 🌐 Connect With Me  
-<p align="left">
+<p align="center">
   <a href="https://twitter.com/rohan07_2005" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
@@ -32,7 +32,7 @@
 ---
 
 ## 🛠️ Tech Stack  
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
@@ -76,5 +76,5 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rohan24may/rohan24may/main/goku-power-sayan.gif" width="300" />
+  <img src="https://raw.githubusercontent.com/rohan24may/rohan24may/main/goku-power-sayan.gif" width="350" />
 </p>
