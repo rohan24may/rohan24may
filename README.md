@@ -27,9 +27,10 @@
   <a href="https://instagram.com/roha_n_._/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
- <a href="mailto:rohanabcd0305@gmail.com" target="_blank">
+<a href="mailto:rohanabcd0305@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
 
 </p>
 
