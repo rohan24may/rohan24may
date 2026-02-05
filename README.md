@@ -10,11 +10,11 @@
 
 ## 🚀 About Me  
 - 👯 I’m looking to collaborate on **Next.js projects**
-- ⚡ Fun fact: **I play games a lot 🎮**
-- - 🚀 Building full-stack apps with Next.js
+- 🚀 Building full-stack apps with Next.js
 - 🧠 Exploring backend & system design
 - 🧩 Open to open-source collaboration
 - 💬 React • Node • MongoDB
+-  ⚡ Fun fact: **I play games a lot 🎮**
 
 
 ---
@@ -53,13 +53,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=000"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohan24may&theme=onedark&no-frame=true&row=1&column=7" />
 </p>
 
 ---
