@@ -1,6 +1,20 @@
 <h1 align="center">🎮 Hi 👋, I'm Rohan</h1>
-<h3 align="center">Open Source • Full-Stack Web Dev • Building in Public
-🕹️</h3>
+
+<table align="center" style="border: none;">
+  <tr style="border: none;">
+    <td align="left" style="border: none;">
+      <h3>
+        Open Source • Full-Stack Web Dev • Building in Public 🕹️
+      </h3>
+    </td>
+    <td align="right" style="border: none;">
+      <img src="https://raw.githubusercontent.com/rohan24may/rohan24may/main/222428.gif" width="200" />
+    </td>
+  </tr>
+</table>
+
+
+ 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rohan24may&label=Profile%20Views&color=ff004f&style=flat" alt="rohan24may" />
