@@ -1,5 +1,6 @@
 <h1 align="center">🎮 Hi 👋, I'm Rohan</h1>
-<h3 align="center">A Passionate Web Developer  | Gamer vibe 🕹️</h3>
+<h3 align="center">Open Source • Full-Stack Web Dev • Building in Public
+🕹️</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rohan24may&label=Profile%20Views&color=ff004f&style=flat" alt="rohan24may" />
@@ -8,11 +9,13 @@
 ---
 
 ## 🚀 About Me  
-- 🌱 I’m currently learning **Next.js**
 - 👯 I’m looking to collaborate on **Next.js projects**
-- 🤝 I’m looking for help with **Full Stack**
-- 💬 Ask me about **React, Node.js, MongoDB**
 - ⚡ Fun fact: **I play games a lot 🎮**
+- - 🚀 Building full-stack apps with Next.js
+- 🧠 Exploring backend & system design
+- 🧩 Open to open-source collaboration
+- 💬 React • Node • MongoDB
+
 
 ---
 
