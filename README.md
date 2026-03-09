@@ -83,7 +83,7 @@
   <img src="https://raw.githubusercontent.com/Circuit-Overtime/Circuit-Overtime/output/snake.svg" alt="Snake animation" />
 </div>
 
----
+--
 
 ## 🔥 GitHub Streak  
 <p align="center">
