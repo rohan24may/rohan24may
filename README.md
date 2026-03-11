@@ -1,5 +1,9 @@
 <h1 align="center">🎮 Hi 👋, I'm Rohan</h1>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=FF004F&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Next.js+Developer;Building+Cool+Projects+🚀;Open+Source+Enthusiast" />
+</p>
+
 <table align="center" style="border: none;">
   <tr style="border: none;">
     <td align="left" style="border: none;">
@@ -12,9 +16,6 @@
     </td>
   </tr>
 </table>
-
-
- 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rohan24may&label=Profile%20Views&color=ff004f&style=flat" alt="rohan24may" />
