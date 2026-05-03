@@ -12,7 +12,7 @@
       </h3>
     </td>
     <td align="right" style="border: none;">
-      <img src="https://raw.githubusercontent.com/rohan24may/rohan24may/main/222428.gif" width="200" />
+      <img src="https://raw.githubusercontent.com/rohan24may/rohan24may/main/loop shedding GIF.gif" width="200" />
     </td>
   </tr>
 </table>
