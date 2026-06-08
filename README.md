@@ -11,7 +11,6 @@
 
 <p>
   ⚡ Passionate about creating modern web experiences <br/>
-  🧠 Exploring scalable systems, backend architecture & AI <br/>
   🚀 Turning ideas into real-world products through code
 </p>
 
