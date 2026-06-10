@@ -4,7 +4,6 @@
 </p>
 
 <div align="center">
-
 <h3>
   Open Source • Full-Stack Web Dev • Building in Public 🕹️
 </h3>
