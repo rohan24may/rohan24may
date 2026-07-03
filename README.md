@@ -8,7 +8,6 @@
 </h3>
 
 <p>
-  ⚡ Passionate about creating modern web experiences <br/>
   🚀 Turning ideas into real-world products through code
 </p>
 
