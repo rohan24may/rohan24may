@@ -7,10 +7,6 @@
   Open Source • Full-Stack Web Dev • Building in Public 🕹️
 </h3>
 
-<p>
-  🚀 Turning ideas into real-world products through code
-</p>
-
 <br/>
 
 <img src="https://raw.githubusercontent.com/rohan24may/rohan24may/main/loop shedding GIF.gif" width="450" />
