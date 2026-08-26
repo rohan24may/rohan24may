@@ -20,6 +20,7 @@
 ---
 
 ## 🚀 About Me  
+- 🎓 MCA Student
 - 👯 I’m looking to collaborate on **Next.js projects**
 - 🚀 Building full-stack apps with Next.js
 - 🧠 Exploring backend & system design
